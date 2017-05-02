@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# b0rh <francisco@garnelo.eu>
+# https://github.com/b0rh/gitolite-scripts/
+
 # Target
 CNT_NM='osaio'
 CNT_TG='os' # container tag
