@@ -1,3 +1,6 @@
+# b0rh <francisco@garnelo.eu>
+# https://github.com/b0rh/gitolite-scripts/
+
 #TODO: Add color support
 
 function addreplace_conf {
