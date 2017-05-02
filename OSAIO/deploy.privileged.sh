@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# b0rh <francisco@garnelo.eu>
+# https://github.com/b0rh/gitolite-scripts/
+
 # Remember to add non-root user to docker and add all packages.
 # Relogin to apply new permission, if you don't it docker fails.
 # sudo /usr/sbin/usermod -aG docker <non-root user>
