@@ -1,6 +1,10 @@
 #!/bin/bash
 
-#TODO:
+# b0rh <francisco@garnelo.eu>
+# https://github.com/b0rh/gitolite-scripts/
+
+#TODO seccomp
+# NOTE: Capabilities doc/ref
 # https://linux.die.net/man/7/capabilities
 # http://lxr.free-electrons.com/source/include/uapi/linux/capability.h?v=3.12
 # https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/tree/include/linux/capability.h?id=refs/tags/v3.10.104
